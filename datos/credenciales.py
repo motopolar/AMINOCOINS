@@ -26,6 +26,6 @@ SOFTWARE.
 
 class Usuario:
 
-   correo = "botravnin@gmail.com" 
-   clave = "Contraseña"
+   correo = "wisovor183@raotus.com" 
+   clave = "jesuscolio"
    sid = "Coloca tu sid"
